@@ -1,0 +1,1 @@
+This file creates the relationship between Accounts and EmailTemplates module. Then go to record.php to the Accounts module to add the field of this relation.
