@@ -1,0 +1,12 @@
+custom/modules/<module>/clients/base/views/record/
+
+modified line 152 to 156 
+from
+5=> 'phone_office' 
+
+to
+5 => 
+              array(
+                'name' => 'phone_office',
+                'type' => 'custom_phone'   
+              ),
